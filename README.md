@@ -1,2 +1,4 @@
 # hello-hello
-Practicing another repository
+Practicing 2nd repository
+
+wasn't successful before..trying again
